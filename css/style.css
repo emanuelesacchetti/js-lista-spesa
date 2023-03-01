@@ -6,6 +6,11 @@
 html {
     font-family: 'Mynerve', cursive;
 }
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://www.borneylegnami.com/repo/immagini/anteprime/xl/rovere-lavorato-7_b7bcb957ea_.jpg);
+}
 
 .container {
     width: 400px;
