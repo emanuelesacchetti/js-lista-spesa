@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Mynerve', cursive;
+}
+
+.container {
+    width: 400px;
+    height: 600px;
+    margin: 50px auto;
+}
+.foglio {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-photo/background-crumpled-paper-sheet_1194-7545.jpg);
+}
+h1 {
+    font-size: 30px;
+    padding: 20px;
+}
+li {
+    list-style: none;
+    padding: 10px 0;
+}
